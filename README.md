@@ -1,6 +1,11 @@
 # 💫 About Me:
-🏗 I build Rails Apps, it's an amazing framework!<br><br>
-🔭 I’m currently looking to land my first dev job <br><br>🦕 I really enjoy reading Ruby/Rails books, the reviews I made are here :<br><br>📚 [Blog & reviews site.](https://home.dominicdev.com/) <br><br>I've been in supply chain ~7 years, from end to end, in 2021 a decided to pivot my career and break into Software; I attended [Le Wagon.](https://lewagon.com/)🛤<br><br>🌱 I’m currently learning Hotwire and the latest stuff Rails released <br><br>💬 Ask me about career transition, boot camps, logistics 🛫 and few finance topics.<br><br>
+🏗 I build Rails Apps, it's a powerful framework!<br>
+<br>🛫 I've been in supply chain ~7 years, from end to end, in 2021 a decided to pivot my career and break into Software.
+<br><br>🛤 I attended [Le Wagon.](https://www.lewagon.com/) coding bootcamp.<br>
+<br>🦕 I really enjoy reading Ruby/Rails books, the reviews I make are here :
+<br><br>📚 [Blog & reviews site.](https://home.dominicdev.com/) 
+<br><br>🌱 I’m currently learning Hotwire ⚡️ and the latest stuff Rails released.
+<br><br>💬 Ask me about career transition, boot camps, logistics and few finance topics.<br><br>
 
 
 # 💻 Tech Stack:
