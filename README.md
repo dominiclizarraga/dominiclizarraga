@@ -1,7 +1,7 @@
 # About Me:
 🏗 I build Rails Apps, it's a powerful framework!<br>
 <br>🛫 I've been in supply chain ~7 years, from end to end, in 2021 a decided to pivot my career and break into Software.
-<br><br>🛤 I attended [Le Wagon.](https://www.lewagon.com/) coding bootcamp.<br>
+<br><br>🛤 I attended [Le Wagon ](https://www.lewagon.com/) coding bootcamp.<br>
 <br>🦕 I really enjoy reading Ruby/Rails books, the reviews I make are here :
 <br><br>📚 [Blog & reviews site.](https://home.dominicdev.com/) 
 <br><br>🌱 I’m currently learning Hotwire ⚡️.
