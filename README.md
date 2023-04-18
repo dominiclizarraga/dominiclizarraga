@@ -2,7 +2,7 @@
 🏗 I build [Rails](https://rubyonrails.org/) Apps w/ [Hotwire](https://hotwired.dev/), it's a powerful combo! ⚡️<br>
 <br>🛤 I attended [Le Wagon ](https://www.lewagon.com/) coding bootcamp.<br>
 <br>📚 I really enjoy coding with Ruby/Rails. Here is my [Blog & reviews site.](https://home.dominicdev.com/) 
-<br><br>🦕 I'm an active OS contributor in: [Ruby for good](https://rubyforgood.org/) | [CASA project](https://github.com/rubyforgood/casa#readme)
+<br><br>🦕 I'm an active contributor to non-profit project in: [Ruby for good](https://rubyforgood.org/) | [CASA project](https://github.com/rubyforgood/casa#readme)
 <br><br>🌱 I’m currently learning [ViewComponent](https://viewcomponent.org/) and React.
 <br><br>💬 Ask me about career transition, bootcamps & logistics.<br>
 <br>🛫 I've been in supply chain ~5 years, from end to end, in 2021 a decided to pivot my career and break into Software.
