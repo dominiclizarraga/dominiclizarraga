@@ -1,7 +1,7 @@
 ## About Me:
 🏗 I build [Rails](https://rubyonrails.org/) Apps w/ [Hotwire](https://hotwired.dev/), it's a powerful combo! ⚡️<br>
 <br>🛤 I attended [Le Wagon ](https://www.lewagon.com/) coding bootcamp.<br>
-<br>📚 I really enjoy coding with Ruby/Rails. Here is my [Blog & reviews site.](https://home.dominicdev.com/) 
+<br>📚 I really enjoy coding with Ruby/Rails. Here is my [Blog & reviews site.](https://dominiclizarraga.github.io/) 
 <br><br>🦕 I'm an active contributor to non-profit project in: [Ruby for good](https://rubyforgood.org/) | [CASA project](https://github.com/rubyforgood/casa#readme)
 <br><br>🌱 I’m currently learning [ViewComponent](https://viewcomponent.org/) and React.
 <br><br>💬 Ask me about career transition, bootcamps & logistics.<br>
